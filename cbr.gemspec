@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
 
   spec.add_dependency 'sax-machine', '~> 1.0'
-  spec.add_dependency 'curb',        '~> 0.8'
+  # spec.add_dependency 'curb',        '~> 0.8'
 end
